@@ -125,6 +125,8 @@ html, body {
     /* -ms-overflow-style: none; */
     min-height: 100%;
   }
+
+  /* slider background */
 .first {
       background-image: url("../images/aFGZ1842.jpg");
       background-repeat: no-repeat;

@@ -1,3 +1,7 @@
+.{
+  margin: 0;
+  padding: 0;
+}
 html, body {
     position: relative;
     height: 100%;
@@ -86,7 +90,7 @@ html, body {
     /* font-size: 20px; */
 
   }
-  
+
 
   .icons a:nth-child(1) {
     width: 3.8em;
@@ -119,7 +123,7 @@ html, body {
     /* transition: all ease-in-out 150ms; */
   }
 
-  
+
 
   .first {
     background-image: url(/images/aFGZ1842.jpg);
@@ -144,25 +148,3 @@ html, body {
     background-position: 75% 30%;
 
   }
-
-  
-
-  
-  
-
-
-
- 
-
-  
-  
-
-    
-  
-
-
-
-
-  
-  
-  

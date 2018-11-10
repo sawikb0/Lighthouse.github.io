@@ -105,7 +105,7 @@ html, body {
     /* overflow: hidden; */
     /* text-align: center; */
     /* font-size: 18px; */
-    background-image: url("../images/aFGZ1842.jpg");
+    /* background-image: url("../images/aFGZ1842.jpg"); */
     /* background: #fff */
     /* Center slide text vertically */
     /* display: -webkit-box;
@@ -125,7 +125,7 @@ html, body {
     /* -ms-overflow-style: none; */
     min-height: 100%;
   }
-  .swiperslide .first {
+.first {
       background-image: url("../images/aFGZ1842.jpg");
       background-repeat: no-repeat;
       background-size: cover;
@@ -133,7 +133,7 @@ html, body {
 
     }
 
-    .swiperslide .second {
+.second {
       background-image: url("../images/freestocks-web.jpg");
       background-repeat: no-repeat;
       background-size: cover;
@@ -141,7 +141,7 @@ html, body {
     }
 
 
-    .swiperslide .third {
+.third {
       background-image: url("../images/dunes-339256_1920.jpg");
       background-repeat: no-repeat;
       background-size: cover;

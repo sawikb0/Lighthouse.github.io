@@ -70,7 +70,7 @@ html, body {
   .icons a:nth-child(1) {
     width: 3.8em;
     height: 3.8em;
-    background-image: url(/images/5a9794da1b10e.png);
+    background-image: url("styles/images/5a9794da1b10e.png");
     background-repeat: no-repeat;
     background-size: auto;
     cursor: pointer;
@@ -80,7 +80,7 @@ html, body {
   .icons a:nth-child(2) {
     width: 3.8em;
     height: 3.8em;
-    background-image: url(/images/5a9797d18f418.png);
+    background-image: url("styles/images/5a9797d18f418.png");
     background-repeat: no-repeat;
     cursor: pointer;
     opacity: 0.8;
@@ -90,7 +90,7 @@ html, body {
   .icons a:nth-child(3) {
     width: 3.8em;
     height: 3.8em;
-    background-image: url(/images/air-bnb-png-8.png);
+    background-image: url("styles/images/air-bnb-png-8.png");
     background-repeat: no-repeat;
     cursor: pointer;
     opacity: 1.2;
@@ -101,7 +101,7 @@ html, body {
 
 
   .first {
-    background-image: url(/images/aFGZ1842.jpg);
+    background-image: url("styles/images/aFGZ1842.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 75% 25%;
@@ -109,7 +109,7 @@ html, body {
   }
 
   .second {
-    background-image: url(/images/freestocks-web.jpg);
+    background-image: url("styles/images/freestocks-web.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 40% 30%;
@@ -117,7 +117,7 @@ html, body {
 
 
   .third {
-    background-image: url(/images/dunes-339256_1920.jpg);
+    background-image: url("styles/images/dunes-339256_1920.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 75% 30%;

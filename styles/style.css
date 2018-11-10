@@ -100,29 +100,7 @@ html, body {
 
 
 
-  .first {
-    background-image: url("../images/aFGZ1842.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: 75% 25%;
 
-  }
-
-  .second {
-    background-image: url("../images/freestocks-web.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: 40% 30%;
-  }
-
-
-  .third {
-    background-image: url("../images/dunes-339256_1920.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: 75% 30%;
-
-  }
   .swiper-slide {
     /* overflow: hidden; */
     /* text-align: center; */
@@ -148,3 +126,26 @@ html, body {
 
 
   }
+  .swiperslide .first {
+      background-image: url("../images/aFGZ1842.jpg");
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: 75% 25%;
+
+    }
+
+    .swiperslide .second {
+      background-image: url("../images/freestocks-web.jpg");
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: 40% 30%;
+    }
+
+
+    .swiperslide .third {
+      background-image: url("../images/dunes-339256_1920.jpg");
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: 75% 30%;
+
+    }
